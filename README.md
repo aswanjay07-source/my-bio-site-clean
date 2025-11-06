@@ -3,6 +3,13 @@
 [🔗 View Portfolio Site](https://aswanjay07-source.github.io/portfolio-site/)
 # 🌐 Aswan Jay | Developer Portfolio
 
+# Portfolio Site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://YOUR-SITE-NAME.netlify.app)
+
+A sleek, responsive portfolio showcasing GitHub projects, filterable by language with animated tags and scroll-to-top UX.
+[🔗 View Portfolio Site](https://aswanjay07-source.github.io/portfolio-site/)
+
 ![Last Commit](https://img.shields.io/github/last-commit/aswanjay07-source/portfolio-site)
 ![Repo Size](https://img.shields.io/github/repo-size/aswanjay07-source/portfolio-site)
 ![License](https://img.shields.io/github/license/aswanjay07-source/portfolio-site)
@@ -24,6 +31,16 @@ Welcome to my personal portfolio! I'm Aswan Jay, an aspiring web developer from 
 ## 🔍 Overview
 This portfolio showcases my latest projects, skills, and design philosophy. It features dynamic GitHub repo cards, responsive layouts, and a clean UI with dark/light mode support.
  
+ ## 👤 About Me
+
+I'm Aswan Jay, an aspiring fullstack web developer focused on building responsive, interactive, and secure web experiences. I specialize in frontend polish, backend integration, and professional documentation.
+
+**Tech Stack Highlights:**  
+- Languages: JavaScript, Python, C++  
+- Tools: VS Code, Postman, GitHub Desktop, Git Bash  
+- Frameworks: React, Node.js  
+- APIs: GitHub API, Formspree  
+- Styling: CSS animations, responsive design, semantic HTML  
 
 ## 🔥 Features
 - Responsive design for mobile, tablet, and desktop
@@ -78,14 +95,14 @@ SEO: Semantic HTML and meta tags included
 
 ## 🧩 Project Categories
 
-### 🔹 Frontend Projects
-- [Responsive Landing Page](https://github.com/aswanjay07-source/responsive-landing)
+### 🔷 Frontend
+- [Responsive Landing Page](https://github.com/aswanjay07-source/responsive-landing) — Responsive layouts, hover effects, transitions
 
-### 🔹 Fullstack Projects
-- [Task Manager App](https://github.com/aswanjay07-source/task-manager)
+### 🟩 Backend
+- [Task Manager App](https://github.com/aswanjay07-source/task-manager) — JWT-based authentication and secure routing
 
-### 🔹 API-Based Projects
-- [Weather Dashboard](https://github.com/aswanjay07-source/weather-dashboard)
+### 🧩 API-Based
+- [Weather Dashboard](https://github.com/aswanjay07-source/weather-dashboard) — Real-time weather data via external API
  
  ## 🛠️ Setup
 ```bash
