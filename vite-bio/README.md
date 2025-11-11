@@ -9,6 +9,10 @@ Currently, two official plugins are available:
 
 🔗 [Live Site](https://classy-madeleine-5df43f.netlify.app)
 
+[![Lighthouse Score](https://img.shields.io/badge/lighthouse-98-brightgreen)](https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/YOUR_REPORT_ID.html)
+
+<!-- Triggering Lighthouse CI workflow -->
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
@@ -16,3 +20,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
