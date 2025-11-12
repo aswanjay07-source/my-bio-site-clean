@@ -1,23 +1,40 @@
-# React + Vite
+# 🚀 React + Vite Portfolio Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR, ESLint rules, and performance auditing via Lighthouse CI.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit the Live Site](https://classy-madeleine-5df43f.netlify.app)
 
-🔗 [Live Site](https://classy-madeleine-5df43f.netlify.app)
-
-[![Lighthouse Score](https://img.shields.io/badge/lighthouse-98-brightgreen)](https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/YOUR_REPORT_ID.html)
+![Lighthouse Performance](https://img.shields.io/badge/Performance-95-brightgreen?logo=lighthouse)
+[![Lighthouse Report](https://img.shields.io/badge/Lighthouse-Report-blue?logo=lighthouse)](https://aswanjay.github.io/lighthouse-report/)
 
 <!-- Triggering Lighthouse CI workflow -->
 
-## React Compiler
+## 🧩 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ⚡️ Fast Refresh with Babel or SWC
+- 🧼 ESLint integration for clean code
+- 📱 Responsive design
+- 📬 Formspree contact form
+- 🔍 GitHub API integration
+- 🧪 Automated Lighthouse CI workflow
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![React](https://img.shields.io/badge/React-2023-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.0-purple?logo=vite)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-green?logo=lighthouse)
 
+## ⚙️ React Compiler
+
+The React Compiler is not enabled on this template due to its impact on dev & build performance. To add it, see [React Compiler Installation](https://react.dev/learn/react-compiler/installation).
+
+## 📏 ESLint Configuration
+
+For production-grade apps, we recommend using TypeScript with type-aware lint rules. Explore the [TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) and [`typescript-eslint`](https://typescript-eslint.io) for advanced setup.
+
+---
+
+© 2025 Aswan Jay — Built with passion, precision, and performance.
