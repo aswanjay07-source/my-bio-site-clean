@@ -1,0 +1,36 @@
+name: Lighthouse CI
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Lighthouse CI
+        run: npm install -g @lhci/cli
+
+      - name: Run Lighthouse CI
+        run: lhci autorun
+
+      - name: Deploy report to GitHub Pages
+        run: |
+          git config --global user.email "aswan@example.com"
+          git config --global user.name "Aswan Jay"
+          git clone --branch gh-pages https://github.com/aswanjay07-source/my-bio-site-clean.git gh-pages
+          mkdir -p gh-pages/lighthouse-report
+          cp -r .lighthouseci/* gh-pages/lighthouse-report/
+          cd gh-pages
+          git add .
+          git commit -m "Update Lighthouse report"
+          git push
