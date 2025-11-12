@@ -7,6 +7,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/aswanjay07-source/portfolio-site)  
 ![Repo Size](https://img.shields.io/github/repo-size/aswanjay07-source/portfolio-site)
 
+![Lighthouse CI](https://your-badge-url.com)
+
 ---
 
 ## 📚 Table of Contents
