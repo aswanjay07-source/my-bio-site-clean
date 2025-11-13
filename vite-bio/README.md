@@ -25,6 +25,40 @@ This template provides a minimal setup to get React working in Vite with HMR, ES
 
 > _Note: This screenshot reflects the current state of the site. Repo list is coming soon — stay tuned!_
 
+## 🚀 Projects
+
+<details>
+  <summary>📁 My Bio Site</summary>
+
+  A personal portfolio built with Vite, deployed via Netlify. Features semantic HTML, responsive design, and automated Lighthouse audits.
+
+  🔗 [Live Site](https://my-bio-site-clean.netlify.app)  
+  📷 ![Screenshot](assets/screenshot.png)  
+  🛠️ Tech: Vite, Netlify, GitHub Actions, Lighthouse CI
+
+</details>
+
+<details>
+  <summary>🧪 API Playground (Coming Soon)</summary>
+
+  An interactive frontend for testing advanced API integrations. Will include Postman-tested endpoints, dynamic UI, and real-time feedback.
+
+</details>
+
+<details>
+  <summary>🎨 UI/UX Experiments</summary>
+
+  A sandbox for creative interface ideas — animated tags, filter buttons, loading spinners, and fade-in effects.
+
+</details>
+
+<details>
+  <summary>📊 Performance Dashboard (Planned)</summary>
+
+  Automated badge updates for Lighthouse scores across multiple projects. CI/CD powered by GitHub Actions.
+
+</details>
+
 
 ## 🛠️ Tech Stack
 
