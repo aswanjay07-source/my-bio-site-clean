@@ -68,6 +68,19 @@ This template provides a minimal setup to get React working in Vite with HMR, ES
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-green?logo=lighthouse)
 
 
+## ✨ About This Portfolio
+Crafted with performance, accessibility, and user delight at its core...
+
+## 📬 Contact
+Have a project idea, feedback, or just want to connect?
+
+- 📧 Email: [aswanjay07@gmail.com](mailto:aswanjay07@gmail.com)
+- 📝 Contact Form: [Submit via Formspree](https://formspree.io/f/your-form-id)
+
+> _Your message goes straight to my inbox — no spam, no bots, just real conversation._
+
+
+
 ## ⚙️ React Compiler
 
 The React Compiler is not enabled on this template due to its impact on dev & build performance. To add it, see [React Compiler Installation](https://react.dev/learn/react-compiler/installation)
