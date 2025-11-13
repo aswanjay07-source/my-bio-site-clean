@@ -20,12 +20,19 @@ This template provides a minimal setup to get React working in Vite with HMR, ES
 - 🔍 GitHub API integration
 - 🧪 Automated Lighthouse CI workflow
 
+## 📸 Preview
+![Portfolio Screenshot](assets/screenshot.png)
+
+> _Note: This screenshot reflects the current state of the site. Repo list is coming soon — stay tuned!_
+
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-2023-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5.0-purple?logo=vite)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-green?logo=lighthouse)
+
 
 ## ⚙️ React Compiler
 
